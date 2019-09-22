@@ -1,6 +1,7 @@
 from graph import *
 import random
 import time
+
 c=canvas()
 canvasSize(700, 900)
 windowSize(1000, 900)
